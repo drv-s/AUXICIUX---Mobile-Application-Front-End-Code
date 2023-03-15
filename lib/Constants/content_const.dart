@@ -1,0 +1,1 @@
+const StandupC = 'Here we serve solutions of many of your problems \n in various regions of this state. \n AUXICIUX is available with doorstep services \n At one tap.... \n ';
